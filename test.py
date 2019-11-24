@@ -32,6 +32,8 @@ def update(dt):
 	for bubble in bubble_list:
 		bubble.x += 100*dt
 		bubble.y += 100*dt
+		
+class Bubbles: 
 	
 
 	
